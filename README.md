@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Todo List
+
+This is a simple todo-list app built using React and Tailwind CSS. It allows users to add, complete, and delete tasks.
+
+## Features
+
+- Add tasks: Enter a task and press Enter to add it to the list.
+- Complete tasks: Click on a task to mark it as complete.
+- Delete tasks: Click on the delete icon next to a task to remove it from the list.
+
+## Technologies Used
+
+- React
+- Next.js
+- Tailwind CSS
 
 ## Getting Started
 
